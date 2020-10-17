@@ -42,6 +42,8 @@ p
     margin-left: 20px;
 }
 
+/* End General Styling */
+
 /* Styling for header classes */
 
 .header
@@ -51,6 +53,8 @@ p
     background-color: #2a607c;
     color: #ffffff;
 }
+
+/* End Styling for header classes */
 
 /* Page main header styling */
 .header h1
@@ -64,7 +68,9 @@ p
     color: #d9dcd6;
 }
 
-/* Styles links to right side of header */
+/* End Page main header styling */
+
+/* Header link styling */
 .header div
 {
     padding-top: 15px;
@@ -85,7 +91,9 @@ p
     margin-left: 25px;
 }
 
-/* Class used to display image beneath header */
+/* End header link styling */
+
+/* Hero Styling */
 
 .hero
 {
@@ -97,7 +105,9 @@ p
     background-position: center;
 }
 
-/* Styling for search-engine-optimization class */
+/* End Hero Styling */
+
+/* search-engine-optimization class styling */
 
 .search-engine-optimization
 {
@@ -120,7 +130,9 @@ p
     max-height: 200px;
 }
 
-/* Styling for online-reputation-management class */
+/* End search-engine-optimization class styling */
+
+/* online-reputation-management class styling */
 
 .online-reputation-management
 {
@@ -143,7 +155,9 @@ p
     max-height: 200px;
 }
 
-/* Styling for social-media-marketing class */
+/* End online-reputation-management class styling */
+
+/* social-media-marketing class styling */
 
 .social-media-marketing
 {
@@ -166,8 +180,11 @@ p
     max-height: 200px;
 }
 
+/* End  social-media-marketing class styling */
+
 /* Styling for benefits classes */
 
+/* Benefits displayed on right of page */
 .benefits
 {
     margin-right: 20px;
@@ -180,6 +197,7 @@ p
     background-color: #2589bd;
 }
 
+/* Lead generation benefit styling */
 .benefit-lead
 {
     margin-bottom: 32px;
@@ -199,6 +217,7 @@ p
     max-width: 150px;
 }
 
+/* Brand management benefit styling */
 .benefit-brand
 {
     margin-bottom: 32px;
@@ -218,6 +237,7 @@ p
     max-width: 150px;
 }
 
+/* Cost management benefit styling */
 .benefit-cost
 {
     margin-bottom: 32px;
@@ -237,6 +257,8 @@ p
     max-width: 150px;
 }
 
+/* End Styling for benefits classes */
+
 /* Styling for footer */
 
 .footer
@@ -251,3 +273,5 @@ p
 {
     font-size: 20px;
 }
+
+/* End Styling for footer */
