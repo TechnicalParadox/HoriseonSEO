@@ -1,4 +1,4 @@
-![](assets/README-cb134252.png)
+![](assets/images/README-websiteSS.png)
 # HoriseonSEO <br />
 Week 1 Challenge <br />
 [View Site](https://technicalparadox.github.io/HoriseonSEO)
