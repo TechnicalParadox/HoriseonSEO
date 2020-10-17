@@ -42,8 +42,8 @@ p
     margin-left: 20px;
 }
 
-
 /* Styling for header classes */
+
 .header
 {
     padding: 20px;
@@ -52,6 +52,7 @@ p
     color: #ffffff;
 }
 
+/* Page main header styling */
 .header h1
 {
     display: inline-block;
@@ -63,6 +64,7 @@ p
     color: #d9dcd6;
 }
 
+/* Styles links to right side of header */
 .header div
 {
     padding-top: 15px;
